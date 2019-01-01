@@ -1,0 +1,11 @@
+/* "Style the navbar" https://www.w3schools.com/howto/howto_js_navbar_sticky.asp*/
+#navbar {
+  overflow: hidden;
+  background-color: #333;
+  
+}
+
+/* "Navbar links" */
+#navbar a {
+  padding: 14px;
+}

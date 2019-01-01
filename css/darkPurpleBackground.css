@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(71, 71, 107);
+	color: rgb(255, 255, 230);
+	font-family: "courier", "sans serif";
+}
+
+h1, h2, footer {
+	text-shadow: 2px 2px #FF0000;
+	border-width: 20px;
+	border-color: rgb(134, 179, 0);
+}
+
+td {
+	color: green;
+}
+
+a {
+	color: rgb(51, 204, 204);
+}
